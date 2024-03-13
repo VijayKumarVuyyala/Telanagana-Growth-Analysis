@@ -1,4 +1,4 @@
-![q12](https://github.com/VijayKumarVuyyala/Telanagana-Growth-Analysis/assets/160216489/5589208f-c126-4625-b93d-a05215682a7f)# Telanagana-Growth-Analysis
+# Telanagana-Growth-Analysis
 This is my resume project challenge, which was conducted by CodeBasics. Analyse Telangana’s growth among different sectors quantitatively and provide useful insights to the Telangana government that would help them make data-informed decisions that would further support the growth of the state.
 # Project Link
 https://codebasics.io/challenge/codebasics-resume-project-challenge
