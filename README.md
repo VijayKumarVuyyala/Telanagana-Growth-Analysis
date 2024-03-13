@@ -53,3 +53,12 @@ Analyse Telangana’s growth among different sectors quantitatively and provide 
     * Can we identify any seasonal patterns or cyclicality in the investment trends for specific sectors? Do certain sectors experience higher investments during particular months?
     ![q12](https://github.com/VijayKumarVuyyala/Telanagana-Growth-Analysis/assets/160216489/db5e722d-d428-48f2-8998-50214c206d27)
 
+# Live Dashboard 
+https://app.powerbi.com/groups/me/apps/f03756dc-e1b6-4daa-bb2e-cc296629fb20/reports/dd48b757-fa30-4d1f-befa-79dbb993fdf8/ReportSection223e4bbd71c60d503359?ctid=a68883a9-f2d3-4fbd-aaa9-1632b51814e6&experience=power-bi
+# About Me
+
+I am passionate about data analytics and harnessing the power of visualization to drive data-driven decisions. Completing the Power BI course has expanded my skillset, enabling me to provide valuable insights and make a meaningful impact.
+
+If you have any feedback, suggestions, or would like to connect to discuss data analytics or Power BI further, please feel free to reach out!
+
+Email: vuyyalavijaykumar@gmail.com Linkedin: www.linkedin.com/in/vijay-kumar-vuyyala-1b459612a 
